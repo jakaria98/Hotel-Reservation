@@ -1,0 +1,183 @@
+[{
+  "_id": {
+    "$oid": "5fe2d56e8b8c3e1ff898cc0c"
+  },
+  "name": "presidential",
+  "information": "jakaria is a bad boy.",
+  "pets": true,
+  "breakfast": true,
+  "availability": true,
+  "capacity": 2,
+  "price": 15000,
+  "__v": 0,
+  "room_key": "presidential",
+  "type": "presidential"
+},{
+  "_id": {
+    "$oid": "5fe2dddb8b8c3e1ff898cc0d"
+  },
+  "name": "single deluxe",
+  "information": "COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT ",
+  "pets": true,
+  "breakfast": true,
+  "availability": true,
+  "capacity": 1,
+  "price": 5000,
+  "__v": 0,
+  "room_key": "single_deluxe",
+  "type": "single"
+},{
+  "_id": {
+    "$oid": "5fe2de1b8b8c3e1ff898cc0e"
+  },
+  "name": "single economy",
+  "information": "COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT ",
+  "pets": false,
+  "breakfast": true,
+  "availability": true,
+  "capacity": 1,
+  "price": 3500,
+  "__v": 0,
+  "room_key": "single_economy",
+  "type": "single"
+},{
+  "_id": {
+    "$oid": "5fe2dea28b8c3e1ff898cc0f"
+  },
+  "name": "single standard",
+  "information": "kjsfhgfrjksghjsfhgjfksd",
+  "pets": false,
+  "breakfast": true,
+  "availability": true,
+  "capacity": 1,
+  "price": 4000,
+  "__v": 0,
+  "room_key": "single_standard",
+  "type": "single"
+},{
+  "_id": {
+    "$oid": "5fe2decb8b8c3e1ff898cc10"
+  },
+  "name": "double standard",
+  "information": "kjsfhgfrjksghjsfhgjfksd",
+  "pets": false,
+  "breakfast": true,
+  "availability": true,
+  "capacity": 2,
+  "price": 8000,
+  "__v": 0,
+  "room_key": "double_standard",
+  "type": "double"
+},{
+  "_id": {
+    "$oid": "5fe2deeb8b8c3e1ff898cc11"
+  },
+  "name": "double basic",
+  "information": "kjsfhgfrjksghjsfhgjfksd",
+  "pets": false,
+  "breakfast": false,
+  "availability": true,
+  "capacity": 2,
+  "price": 6000,
+  "__v": 0,
+  "room_key": "double_basic",
+  "type": "double"
+},{
+  "_id": {
+    "$oid": "5fe2e0258b8c3e1ff898cc12"
+  },
+  "name": "double deluxe",
+  "information": "kjsfhgfrjksghjsfhgjfksd",
+  "pets": true,
+  "breakfast": true,
+  "availability": true,
+  "capacity": 2,
+  "price": 9000,
+  "__v": 0,
+  "room_key": "double_deluxe",
+  "type": "double"
+},{
+  "_id": {
+    "$oid": "5fe2e0388b8c3e1ff898cc13"
+  },
+  "name": "double economy",
+  "information": "kjsfhgfrjksghjsfhgjfksd",
+  "pets": false,
+  "breakfast": true,
+  "availability": true,
+  "capacity": 2,
+  "price": 7000,
+  "__v": 0,
+  "room_key": "double_economy",
+  "type": "double"
+},{
+  "_id": {
+    "$oid": "5fe2e11b8b8c3e1ff898cc15"
+  },
+  "name": "family standard",
+  "information": "kjsfhgfrjksghjsfhgjfksd",
+  "pets": false,
+  "breakfast": true,
+  "availability": true,
+  "capacity": 6,
+  "price": 10000,
+  "__v": 0,
+  "room_key": "family_standard",
+  "type": "family"
+},{
+  "_id": {
+    "$oid": "5fe2e1228b8c3e1ff898cc16"
+  },
+  "name": "family basic",
+  "information": "COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT COMFORT ",
+  "pets": false,
+  "breakfast": false,
+  "availability": true,
+  "capacity": 4,
+  "price": 9000,
+  "__v": 0,
+  "room_key": "family_basic",
+  "type": "family"
+},{
+  "_id": {
+    "$oid": "5fe2e12d8b8c3e1ff898cc17"
+  },
+  "name": "family deluxe",
+  "information": "kjsfhgfrjksghjsfhgjfksd",
+  "pets": true,
+  "breakfast": true,
+  "availability": true,
+  "capacity": 8,
+  "price": 12000,
+  "__v": 0,
+  "room_key": "family_deluxe",
+  "type": "family"
+},{
+  "_id": {
+    "$oid": "5fe2e1358b8c3e1ff898cc18"
+  },
+  "name": "family economy",
+  "information": "kjsfhgfrjksghjsfhgjfksd",
+  "pets": false,
+  "breakfast": true,
+  "availability": true,
+  "capacity": 4,
+  "price": 11000,
+  "__v": 0,
+  "room_key": "family_economy",
+  "type": "family"
+},{
+  "_id": {
+    "$oid": "5fe2fd5b6612b422fc18c129"
+  },
+  "name": "single basic",
+  "information": "kjsfhgfrjksghjsfhgjfksd",
+  "pets": false,
+  "breakfast": false,
+  "availability": true,
+  "capacity": 1,
+  "price": 3000,
+  "__v": 0,
+  "room_key": "single_basic",
+  "type": "single"
+}]
