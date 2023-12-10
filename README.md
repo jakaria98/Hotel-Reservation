@@ -10,7 +10,9 @@ Visitor Details Management: Facilitates the updating of visitor details for rese
 **Installation**
 
 To clone: git clone https://github.com/jakaria98/Hotel-Reservation.git
+
 Don't forget to install npm and Mongodb.
+
 To run the app write the command "npm run dev" on the terminal
 
 **Technologies Used**
